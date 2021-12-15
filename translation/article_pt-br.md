@@ -96,7 +96,17 @@
 
 ## 11 - Tutorial Python - PythonForBeginners:
 
+### 11.1 - [PythonForBeginners tutorial](https://www.pythonforbeginners.com/python-tutorial)
+
+### 11.2 - [Web Scraping with BeautifulSoup](https://www.pythonforbeginners.com/python-on-the-web/web-scraping-with-beautifulsoup)
+
+### 11.3 - [Using the YouTube API in Python](https://www.pythonforbeginners.com/api/using-the-youtube-api)
+
 ## 12 - Automatize as coisas chatas com Python:
+
+### 12.1 - [Automate the Boring Stuff with Python online book](https://automatetheboringstuff.com/)
+
+### 12.2 - [the YouTube series](https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 
 ## 13 - Aprenda Python em 12 horas (Tutorial de Python para iniciantes):
 
