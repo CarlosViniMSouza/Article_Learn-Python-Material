@@ -74,7 +74,7 @@
 
 ### 6.1 - [Studytonight](https://www.studytonight.com/python/)
 
-### 6.2 - Libs : [Numpy](https://www.studytonight.com/numpy), [MatplotLib](https://www.studytonight.com/matplotlib), [Tkinter](https://www.studytonight.com/tkinter), [Network Programming in Python](https://www.studytonight.com/network-programming-in-python/) e [Web Scraping usando Beautiful Soup.](https://www.studytonight.com/python/web-scraping/)
+### 6.2 - Libs: [Numpy](https://www.studytonight.com/numpy), [MatplotLib](https://www.studytonight.com/matplotlib), [Tkinter](https://www.studytonight.com/tkinter), [Network Programming in Python](https://www.studytonight.com/network-programming-in-python/) e [Web Scraping usando Beautiful Soup.](https://www.studytonight.com/python/web-scraping/)
 
 ## 7 - Curso intensivo de Python para iniciantes:
 
@@ -82,9 +82,17 @@
 
 ## 8 - Python Core:
 
+### 8.1 - [SoloLearn's Python Course](https://www.sololearn.com/learning/1073)
+
 ## 9 - Python Basics com Sam:
 
+### 9.1 - [Sam Focht YouTube Series](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkmRvnFmOd4KhDdlK1oIq23)
+
 ## 10 - Tutoriais para iniciantes em Python:
+
+### 10.1 - [series of Pythonspot beginner tutorials](https://pythonspot.com/beginner/)
+
+### 10.2 - Conceitos: [Aprendizagem de Maquina](https://pythonspot.com/machine-learning/), [Bancos de Dados](https://pythonspot.com/python-database/), [Interfaces Gráficas do Usuário - GUI's](https://pythonspot.com/gui/)
 
 ## 11 - Tutorial Python - PythonForBeginners:
 
