@@ -153,4 +153,24 @@
 
 --------------------------------------------------------------------------------------------------------------------------
 
+## 16 - Sites para poder explorar + possibilidades com Python:
+
+### 16.1 - [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+### 16.2 - [GeeksForGeeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm)
+
+### 16.3 - [w3resources](https://www.w3resource.com/python/python-tutorial.php)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+## 17 - Sites para praticar código e estudar:
+
+### 17.1 - [w3schools](https://www.w3schools.com/python/)
+
+### 17.2 - [Kaggle](https://www.kaggle.com/)
+
+### 17.3 - [HackerRank](https://www.hackerrank.com/)
+
+--------------------------------------------------------------------------------------------------------------------------
+
 ### Ainda há muitas outras fontes de Estudo! Porem, a mais recomendada para estudar e entender o Python, é a própria documentação da linguagem.
