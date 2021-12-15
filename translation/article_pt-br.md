@@ -66,9 +66,19 @@
 
 ## 5 - Tutorial Python (Python para iniciantes):
 
+### 5.1 - [Programming with Mosh YouTube course](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+### 5.2 - [53 Python Exercises for Beginners](https://programmingwithmosh.com/python/python-exercises-and-questions-for-beginners/)
+
 ## 6 - Cursos Studytonight Python:
 
+### 6.1 - [Studytonight](https://www.studytonight.com/python/)
+
+### 6.2 - Libs : [Numpy](https://www.studytonight.com/numpy), [MatplotLib](https://www.studytonight.com/matplotlib), [Tkinter](https://www.studytonight.com/tkinter), [Network Programming in Python](https://www.studytonight.com/network-programming-in-python/) e [Web Scraping usando Beautiful Soup.](https://www.studytonight.com/python/web-scraping/)
+
 ## 7 - Curso intensivo de Python para iniciantes:
+
+### 7.1 - [Brad Traversy YouTube course](https://www.youtube.com/watch?v=JJmcL1N2KQs)
 
 ## 8 - Python Core:
 
